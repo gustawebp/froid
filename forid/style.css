@@ -1,0 +1,89 @@
+/* FONTES */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+/* FONTES */
+body{
+    background-image: linear-gradient(to right, #144F36, #0FA3C1  );
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    
+}
+#p {
+    text-align: center;
+    background-color: #ff9f05;
+    box-shadow: 5px 5px 10px #010D26;
+    font-family: 'Raleway';
+    font-size: normal;
+
+    
+}
+#p1 { 
+    /* a */
+    
+
+}
+#img {
+    width: 250px;
+    text-align: center;
+    border-radius: 0px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    margin: auto;
+    
+    
+
+}
+
+#links {
+    color: white;
+}
+
+
+
+
+
+
+
+/* background-color: azure;
+border-radius: 10px;
+padding: 20px;
+
+margin: auto;
+box-shadow: 5px 5px 10px rgb(26, 25, 25);
+text-align: center; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Color Theme Swatches in Hex */
+.color-theme_WhatsApp-Image-2022-02-21-at-16-1-hex { color: #021F59; }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-2-hex { color: #010D26; }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-3-hex { color: #1A4A73; }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-4-hex { color: #9ABBD9; }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-5-hex { color: #AFA08D; }
+
+/* Color Theme Swatches in RGBA */
+.color-theme_WhatsApp-Image-2022-02-21-at-16-1-rgba { color: rgba(2, 31, 89, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-2-rgba { color: rgba(1, 13, 38, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-3-rgba { color: rgba(26, 74, 115, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-4-rgba { color: rgba(154, 187, 217, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-5-rgba { color: rgba(175, 160, 141, 1); }
+
+/* Color Theme Swatches in HSLA */
+.color-theme_WhatsApp-Image-2022-02-21-at-16-1-hsla { color: hsla(219, 95, 17, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-2-hsla { color: hsla(220, 94, 7, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-3-hsla { color: hsla(207, 63, 27, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-4-hsla { color: hsla(208, 45, 72, 1); }
+.color-theme_WhatsApp-Image-2022-02-21-at-16-5-hsla { color: hsla(33, 17, 61, 1); }
