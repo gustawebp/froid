@@ -9,5 +9,5 @@ txt.innerHTML = ` ${hora1} horas e ${min1} minutos `
 if (hora1 > 12) {txt1.innerHTML = 'Boa Tarde'}
 if (hora1 > 1 && hora1 < 12 ) {txt1.innerHTML='Bom dia'}
 
-if ( hora1 > 18 && hora1 < 23) { txt1.innerHTML = 'Boa noite'}
+if ( hora1 > 18 && hora1 < 24) { txt1.innerHTML = 'Boa noite'}
 txt.innerHTML = `Agora são ${hora1}  e ${min1} minutos`
